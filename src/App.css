@@ -1,4 +1,4 @@
-
+/* 
 .App {
   text-align: center;
   margin: 0;
@@ -10,7 +10,7 @@
 .header {
   width: 100vw;
   background: skyblue;
-  min-height: 30px;
+
 }
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -50,4 +50,4 @@ h1 {
 h2 {
   width: 50%;
   margin-left: 25%;
-}
+} */
