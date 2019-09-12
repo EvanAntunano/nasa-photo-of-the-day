@@ -22,7 +22,7 @@ const WrapperDiv = styled.div `
   height: 100%;
   padding: auto;
   display: flex; 
-  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/a-view-of-outer-space-flying-between-the-stars_bdt1pvas_thumbnail-full01.png")
+  background-image: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80")
 `;
 
 //Styled TextDiv
